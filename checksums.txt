@@ -1,0 +1,8 @@
+원본 mikan.bin (467,986,848 B)
+  SHA-1 7e80c63dac70f08ca2bdc2a43f509b08fd3c8341
+  MD5   c7c270f9bf9619136b3b31a0fb0ae60a
+패치 적용 후 BIN
+  SHA-1 a8ccd8f1770082de0c5bd919e39ef03a3929f74e
+  MD5   08aba650bd60285e55673e89ad869bb2
+jinguji_mikan_ko.ppf
+  SHA-1 f247569457f48fbc32f8d5eea036e226ef36e1c0
