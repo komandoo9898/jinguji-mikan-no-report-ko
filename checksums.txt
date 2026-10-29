@@ -4,5 +4,5 @@
 패치 적용 후 BIN
   SHA-1 65715bf543ac7b083ef21f8e8caf895caf7448a2
   MD5   d1ea8bf600d93659a75fac0ce042ed61
-jinguji_mikan_ko.ppf
-  SHA-1 28aa9c65fb142cdd11555bf8f2fe2f2c72f34fc8
+jinguji_mikan_ko.ppf (v0.7)
+  SHA-1 d5a43bb7068b78763a152647d975dc060821e193
